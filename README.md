@@ -1,6 +1,6 @@
-<h2> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h2>
+<h3> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h3>
 
-<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" style="border-radious:10px;"><br>
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" style="border-radius: 10px;"><br>
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/02_Gallery.png" width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/03_About_Us.png"  width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/04_Contact_Us.png"  width="" height="">
