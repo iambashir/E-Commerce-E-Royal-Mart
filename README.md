@@ -1,4 +1,4 @@
-<h3> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h3>
+<h3 style="color:blue;"> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h3>
 
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" style="border-radius: 10px;"><br>
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/02_Gallery.png" width="" height="">
