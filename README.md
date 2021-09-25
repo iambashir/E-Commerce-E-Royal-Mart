@@ -1,4 +1,4 @@
-Tools and Technologies used: Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL
+<h2> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h2>
 
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" style="border-radious:10px;"><br>
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/02_Gallery.png" width="" height="">
@@ -10,14 +10,18 @@ Tools and Technologies used: Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaSc
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/07_My_Orders.png"  width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/08_Invoice.JPG"  width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/09_Admin_Dashboard.png" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_19.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_20.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_21.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_18.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_22.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_02.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_03.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_04.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_05.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_06.JPG" width="" height="">
-<img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_07.JPG" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/10_Report_Summery.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/11_Add_Products.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/12_All_Entry.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/14_Customer_Messeges.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/15_All_Orders.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/16_Change_Passwords.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/17_Customer_Orders.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/18_Delevered_Orderes.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/19_My_Account_Details.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/20My_Order.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/21_Pending_Orders.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/22_Pending_Orders2.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/23_Product_Details.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/24_Search.png" width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/25_View_All_Products.png" width="" height="">
