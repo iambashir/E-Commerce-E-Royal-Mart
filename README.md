@@ -1,6 +1,11 @@
-<h3 style="color:blue;"> TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h3>
+<h3>
+❖ WEB APPLICATION PROJECT: Project on E-Commerce (E-Royal Mart)
+➜ DESCRIPTION: There are three actors of the application, like general user, registered user, and admin. From here any user can order wished product and they can see their portfolio. From the admin panel, admin can manipulate everything and he can take step to see the report which is being generated on product buy, sell and customer.
 
-<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" style="border-radius: 10px;"><br>
+ ➜ TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL 
+</h3>
+
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" ><br>
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/02_Gallery.png" width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/03_About_Us.png"  width="" height="">
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/04_Contact_Us.png"  width="" height="">
