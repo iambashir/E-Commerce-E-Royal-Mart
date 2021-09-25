@@ -20,7 +20,7 @@
 
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/07_My_Orders.png"  width="" height="">
 
-<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/07_My_Orders.png"  width="" height="">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/13_All_Customers.png"  width="" height="">
 
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/08_Invoice.JPG"  width="" height="">
 
