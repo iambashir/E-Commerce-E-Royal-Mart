@@ -1,5 +1,5 @@
 Used Technology: Java Swing, MySql Database, JDBC etc.
-<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" width="100%" height="100%">
+<img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/01_General_user_home.png" width="100%" height="100%"><br>
 <img src="https://github.com/iambashir/E-Commerce-E-Royal-Mart/blob/main/Screenshot/02_Gallery.png" width="" height="">
 <img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_09.JPG"  width="" height="">
 <img src="https://github.com/iambashir/Supershop_Management_System/blob/main/Screenshot/SuperShop_10.JPG"  width="" height="">
