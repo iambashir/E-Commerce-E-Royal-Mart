@@ -1,7 +1,11 @@
 
  <h3> ❖ WEB APPLICATION PROJECT: Project on E-Commerce (E-Royal Mart)</h3>
  
-<h4> ➜ DESCRIPTION: There are three actors of the application, like general user, registered user, and admin. From here any user can order wished product and they can see their portfolio. From the admin panel, admin can manipulate everything and he can take step to see the report which is being generated on product buy, sell and customer. </h4>
+<h4> ➜ DESCRIPTION: There are three actors of the application, like general user, registered user, and
+     admin. From this application (E-Royal Mart) any user can order their wished product and they can see 
+     their portfolio. From the admin panel, admin can conduct any relevant field which is being generated
+     on buying & selling product and customer activities.     
+ </h4>
 
  <h4> ➜ TOOLS AND TECHNOLOGIES USED : Spring Boot, JSP, Thymeleaf, CSS, Bootstrap, JavaScript (jQuery), MySQL </h4>
 
